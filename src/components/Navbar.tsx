@@ -22,18 +22,12 @@ const Navbar = () => {
           <div className="hidden md:block">
             <div className="ml-4 flex items-center md:ml-6">
               <a
-                href="https://github.com/yourusername/docker-registry-dashboard"
+                href="https://github.com/mounirelbakkali1/docker-registry-visualizer"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
               >
                 GitHub
-              </a>
-              <a
-                href="#help"
-                className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-              >
-                Help
               </a>
             </div>
           </div>
