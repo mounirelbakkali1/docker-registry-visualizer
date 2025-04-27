@@ -7,7 +7,7 @@ export default defineConfig({
     port: 3030,
     proxy: {
       '/v2': {
-        target: 'https://docker-registry.softwarekom.com',
+        target: '', // registry URL
         changeOrigin: true,
         secure: false,
       }
