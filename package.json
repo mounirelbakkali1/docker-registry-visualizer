@@ -9,11 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "docker-registry-visualizer": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.2",
-    "docker-registry-visualizer": "file:"
-    
+    "react-router-dom": "^6.14.2"
   },
   "devDependencies": {
     "@types/crypto-js": "^4.2.2",
