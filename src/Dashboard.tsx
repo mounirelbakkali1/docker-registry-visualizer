@@ -71,7 +71,7 @@ function Dashboard() {
           <div className="lg:w-1/4">
             <div className="bg-white rounded-lg shadow p-4 mb-6">
               <div className="flex justify-between items-center mb-4">
-                <h2 className="text-xl font-semibold">Registries</h2>
+                <h2 className="text-xl font-semibold">Registries *</h2>
                 <button 
                   onClick={() => setShowAddForm(!showAddForm)} 
                   className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 rounded"
